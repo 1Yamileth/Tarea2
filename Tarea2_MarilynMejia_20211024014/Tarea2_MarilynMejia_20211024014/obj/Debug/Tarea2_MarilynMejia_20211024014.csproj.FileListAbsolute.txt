@@ -1,0 +1,11 @@
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\bin\Debug\Tarea2_MarilynMejia_20211024014.exe.config
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\bin\Debug\Tarea2_MarilynMejia_20211024014.exe
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\bin\Debug\Tarea2_MarilynMejia_20211024014.pdb
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.csproj.AssemblyReference.cache
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.csproj.SuggestedBindingRedirects.cache
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.Form1.resources
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.Properties.Resources.resources
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.csproj.GenerateResource.cache
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.csproj.CoreCompileInputs.cache
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.exe
+C:\Users\yamil\OneDrive\Escritorio\CLASES\LENGUAJE 3\PRIMER PARCIAL\Tarea2\Tarea2_MarilynMejia_20211024014\Tarea2_MarilynMejia_20211024014\obj\Debug\Tarea2_MarilynMejia_20211024014.pdb
